@@ -9,8 +9,8 @@ Reupload by Wahyudi
       $ pkg update && pkg upgrade
       $ pkg install php
       $ pkg install git
-      $ git clone https://github.com/beecoder47/facebook-unfriend.git
-      $ cd facebook-unfriend
+      $ git clone https://github.com/beecoder47/FacebookUnfriend.git
+      $ cd FacebookUnfriend
 
 ## Run
       $ php unfriend.php
