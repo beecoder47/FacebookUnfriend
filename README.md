@@ -23,4 +23,4 @@ Reupload by Wahyudi
     - Facebook token `Your facebook token (EAAAAA...)`
     - Year `Ex : 2018, unfriend users where doesn't update status before 2018`
 
-![Alt text](fbdel.png "Example")
+![Alt text](fbunfriend.png "Example")
