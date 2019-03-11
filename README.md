@@ -1,15 +1,16 @@
 # Facebook Unfriend
 Unfriend inactive users
 
-© JANTER https://pastebin.com/kbsCFyAs
+© Dandy https://bit.ly/2TvOUav
 
-Recode by Dandy, Reupload by Wahyudi
+Reupload by Wahyudi
 
 ## Install
-      $ pkg install git
+      $ pkg update && pkg upgrade
       $ pkg install php
-      $ git clone https://github.com/dandyraka/FacebookUnfriend.git
-      $ cd FacebookUnfriend
+      $ pkg install git
+      $ git clone https://github.com/beecoder47/facebook-unfriend.git
+      $ cd facebook-unfriend
 
 ## Run
       $ php unfriend.php
